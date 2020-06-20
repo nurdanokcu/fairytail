@@ -73,6 +73,10 @@ body::before {
   }
   .mb-resp {
     margin-bottom: 1rem;
-  }
+    }
+  .info-header{
+  width: 100%;
+	margin: auto;
+}
 }
 /*# sourceMappingURL=style.css.map */
