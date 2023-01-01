@@ -10,4 +10,4 @@ HTML, CSS, Bootstrap and JS
 
 ## Preview Link
 
-  [DEMO LINK](nurdanokcu.github.io/fairytail/)
+  [DEMO LINK](https://nurdanokcu.github.io/fairytail/)
