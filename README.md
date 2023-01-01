@@ -1,7 +1,7 @@
 # Fairy Tail
 
 ## Introduction
-mplementation of Web Page about the [Fairy Tail Game](https://fairytailgame.com/us/)
+Implementation of Web Page about the [Fairy Tail Game](https://fairytailgame.com/us/)
 
 
 ## Technologies Used
